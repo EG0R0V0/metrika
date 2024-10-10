@@ -110,7 +110,7 @@ nav{
     position: relative;
     width: 1150px;
     height: 500px;
-    background-image: url("/resurces/pic1.png");
+    background-image: url("../resurces/pic1.png");
 }
 
 .img_txt{
@@ -216,7 +216,7 @@ nav{
 .big_bed{
     position: relative;
     height: 717px;
-    background-image: url(/resurces/big_bed.png);
+    background-image: url("../resurces/big_bed.png");
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: cover;
@@ -246,7 +246,7 @@ nav{
     height: 24px;
     left: 0;
     top: -36px;
-    background-image: url(/resurces/mobile.png);
+    background-image: url("../resurces/mobile.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
